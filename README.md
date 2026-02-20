@@ -1,3 +1,23 @@
+Features
+
+1-Hero Section – Eye-catching banner with CTA
+2-Features Section – Highlight website/app advantages
+3-Pricing Section – Flexible daily, weekly, and monthly plans
+4-Menu Section – Showcasing meals or products
+5-Testimonials – User/customer feedback carousel
+6-Contact Form – Easy inquiries and messages
+7-Responsive Design – Works on desktop and mobile
+8-Reusable Components – Easy to extend or modify
+
+Tech Stack
+
+1-React – Component-based UI
+2-Tailwind CSS – Styling and responsiveness
+3-JavaScript (ES6+) – Frontend logic
+4-SVG & Images – Decorative elements
+5-Framer motion- for animation
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
